@@ -1,1 +1,4 @@
-httpx[http2]==0.103.0
+fastapi
+uvicorn
+pydantic
+msgpack
