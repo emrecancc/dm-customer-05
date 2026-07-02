@@ -1,2 +1,1 @@
-httpretty
-pillow
+httpx[http2]==0.103.0
