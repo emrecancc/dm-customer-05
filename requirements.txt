@@ -1,2 +1,2 @@
-pydantic
-aiohttp
+pymongo
+psycopg2
