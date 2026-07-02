@@ -1,4 +1,2 @@
-fastapi
-uvicorn
-pydantic
-msgpack
+python-dotenv
+pandas
