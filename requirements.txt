@@ -1,1 +1,4 @@
-pydantic[email]
+fastapi
+uvicorn
+pydantic
+msgpack
