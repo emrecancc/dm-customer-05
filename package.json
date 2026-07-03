@@ -2,8 +2,8 @@
   "name": "dm-customer-05",
   "version": "1.0.0",
   "scripts": {
-    "build": "mkdir -p dist && echo 'console.log(\"ok\")' > index.jss",
-    "start": "node index.jss",
+    "build": "echo '// placeholder' > /home/runner/work/python-fastapi/server.js.js",
+    "start": "node /home/runner/work/python-fastapi/server.js.js",
     "test": "echo ok"
   }
 }
