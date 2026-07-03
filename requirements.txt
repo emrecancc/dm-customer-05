@@ -1,1 +1,2 @@
-celery
+pymongo
+psycopg2
