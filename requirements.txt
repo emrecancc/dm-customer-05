@@ -1,1 +1,2 @@
-pyyaml
+tortoise-orm
+celery
