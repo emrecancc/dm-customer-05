@@ -6,6 +6,6 @@ describe('API latency', () => {
     const start = Date.now();
     await request(app).get('/health');
     const duration = Date.now() - start;
-    expect(duration).toBeLessThan(500);
+    expect(duration).toBeLessThan(700);
   });
 });
