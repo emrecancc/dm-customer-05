@@ -1,1 +1,1 @@
-pillow
+opencv_python
