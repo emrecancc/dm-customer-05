@@ -1,13 +1,12 @@
 {
   "name": "dm-customer-05",
   "version": "1.0.0",
-  "dependencies": {},
-  "devDependencies": {
-    "typescript": "^5",
-    "@types/node": "^20"
-  },
+  "description": "",
+  "main": "src/index.js",
   "scripts": {
-    "build": "tsc --noEmit || echo ok",
-    "test": "echo ok"
-  }
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
 }
